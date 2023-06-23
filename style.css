@@ -49,6 +49,7 @@ width: 10px;
   }
   .navbar a {
     color: white;
+    text-decoration: none;
   }
 .logo{
     margin-right: 20px;
@@ -97,10 +98,9 @@ width: 10px;
     }
 }
 .background-main{
-    background: url(/assets/Ballet\ Dancing\ Girl\ Silhouette\ PNG\ Images\,\ Youthful\ Silhouette\ Dancing\ Girl\ Watercolor\,\ Youth\,\ Flying\,\ Vitality\ PNG\ Image\ For\ Free\ Download.jpeg);
+    background: url(images/Zumba.webp);
     width: 100%;
     height: 100vh;
-
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0 7%;
